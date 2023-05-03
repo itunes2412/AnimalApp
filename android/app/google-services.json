@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "1016096505401",
+    "project_id": "animal-care-2c460",
+    "storage_bucket": "animal-care-2c460.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1016096505401:android:92216ed0fb886d6da317e8",
+        "android_client_info": {
+          "package_name": "com.flutterflow.healthai"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1016096505401-o0d2gfqn92efh07amo8obcr7jo470fiu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARGMwidaDWoV02xvw_8uvYlllCqZPFuFo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1016096505401-o0d2gfqn92efh07amo8obcr7jo470fiu.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1016096505401-ioajk9t150bk7opku0c81ikj6rtoi3sq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.flutterflow.healthai"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
